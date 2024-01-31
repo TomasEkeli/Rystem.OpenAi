@@ -8,7 +8,8 @@
 		"vscode": {
 			"extensions": [
 				"hoffs.dotnet-secret-explorer",
-				"kahole.magit"
+				"kahole.magit",
+				"mhutchie.git-graph"
 			]
 		}
 	}
